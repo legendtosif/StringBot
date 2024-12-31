@@ -23,11 +23,11 @@ async def start(client, message: Message):
         ],
         [
             InlineKeyboardButton("▪️sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ▪️", url=SUPPORT_CHAT),
-            InlineKeyboardButton("▪️ᴜᴘᴅᴀᴛᴇs ▪️", url="https://t.me/HEROKUBIN_01")
+            InlineKeyboardButton("▪️ᴜᴘᴅᴀᴛᴇs ▪️", url="https://t.me/ZOYU_SUPPORT")
         ],
         [
-            InlineKeyboardButton("▪️ sᴏᴜʀᴄᴇ ▪️", url="https://github.com/Badhacker98/StringBot/fork"),
-            InlineKeyboardButton("▪️ ᴍᴜsɪᴄ ʙᴏᴛ ▪️", url="https://t.me/Gaana_MusicBot")
+            InlineKeyboardButton("▪️ sᴏᴜʀᴄᴇ ▪️", url="https://github.com/yourtoofan"),
+            InlineKeyboardButton("▪️ ᴍᴜsɪᴄ ʙᴏᴛ ▪️", url="https://t.me/zoyuMusicBot")
         ]
     ]
 
@@ -43,7 +43,7 @@ async def start(client, message: Message):
 
 ❍ ᴘʟᴇᴀꜱᴇ ᴄʟɪᴄᴋ ᴏɴ 'ꜱᴛʀɪɴɢ ꜱᴇꜱꜱɪᴏɴ ɢᴇɴᴇʀᴀᴛᴇ' ᴛᴏ ꜱᴛᴀʀᴛ.
 
-❍ ɪғ ʏᴏᴜ ɴᴇᴇᴅ ᴀɴʏ ʜᴇʟᴘ, ᴛʜᴇɴ ᴅᴍ ᴛᴏ ᴍʏ ᴏᴡɴᴇʀ: [⏤͟͟͞͞🥀➣Bᴀᴅ❤︎ ᴍᴜɴᴅᴀ ➻ >•⏤͟͟͞͞‌](tg://user?id={OWNER_ID}) """,
+❍ ɪғ ʏᴏᴜ ɴᴇᴇᴅ ᴀɴʏ ʜᴇʟᴘ, ᴛʜᴇɴ ᴅᴍ ᴛᴏ ᴍʏ ᴏᴡɴᴇʀ: [ʟᴇɢᴇɴᴅ](tg://user?id={OWNER_ID}) """,
         reply_markup=InlineKeyboardMarkup(buttons)
     )
 
